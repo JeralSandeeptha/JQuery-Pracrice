@@ -3,3 +3,8 @@
     height: 200px;
     border: 1px solid black;
 }
+
+.highlight {
+    background-color: black;
+    color: white;
+}
