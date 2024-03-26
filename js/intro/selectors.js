@@ -4,7 +4,9 @@ $("document").ready( () => {
     //apply css styling with jquery
     $("h1").css("background-color", "red");
     
-    //select first element , values ---> (first, last)
+    //select first element , 
+    //values ---> (first, last, even, odd, focus)
+    //these are filters
     $("h1:first").css("background-color", "red");
     
     //select element with class name
